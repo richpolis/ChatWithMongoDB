@@ -1,0 +1,15 @@
+{
+  "name": "mongochat",
+  "version": "1.0.0",
+  "description": "Simple chat with Socket.io and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ricardo Alcantara Gomez richpolis@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.0.4"
+  }
+}
